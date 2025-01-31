@@ -38,6 +38,6 @@ setuptools.setup(
     python_requires='>=3.8',
     install_requires=[
         'pyecma376-2>=0.2.4',
-        'basyx-python-sdk>=1.0.0',
+        'basyx-python-sdk',
     ]
 )
